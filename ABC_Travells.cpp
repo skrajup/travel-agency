@@ -325,7 +325,7 @@ public:
             menu();
         }
     }
-};
+};`
 
 float Booking::hotelCost;
 
